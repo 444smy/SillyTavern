@@ -72,8 +72,8 @@ whitelistDockerHosts: true
 basicAuthMode: true
 # Basic authentication credentials
 basicAuthUser:
-  username: "127.0.0.0:8000"
-  password: "thehub"
+  username: "127.0.0.0"
+  password: "127.0.0.1:8000"
 # Enables CORS proxy middleware
 enableCorsProxy: false
 # CORS settings (applied to all routes)
