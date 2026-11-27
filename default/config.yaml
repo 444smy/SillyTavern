@@ -231,7 +231,7 @@ backups:
 # THUMBNAILING CONFIGURATION
 thumbnails:
   # Enable thumbnail generation
-  enabled: true
+  enabled: false
   # Image format of avatar thumbnails:
   # * "jpg": best compression with adjustable quality, no transparency
   # * "png": preserves transparency but increases filesize by about 100%
