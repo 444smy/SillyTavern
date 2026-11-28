@@ -70,8 +70,8 @@ whitelistDockerHosts: true
 basicAuthMode: true
 # Basic authentication credentials
 basicAuthUser:
-  username: "ad ad"
-  password: "ad ad"
+  username: "adad123"
+  password: "adad"
 # Enables CORS proxy middleware
 enableCorsProxy: false
 # CORS settings (applied to all routes)
@@ -231,7 +231,7 @@ backups:
 # THUMBNAILING CONFIGURATION
 thumbnails:
   # Enable thumbnail generation
-  enabled: false
+  enabled: true
   # Image format of avatar thumbnails:
   # * "jpg": best compression with adjustable quality, no transparency
   # * "png": preserves transparency but increases filesize by about 100%
